@@ -36,10 +36,10 @@ Para abrir no celular com o Expo Go, execute `npx expo start --tunnel` dentro de
 
 ### Frontend mobile no navegador
 
-Captura pendente. O Chromium do ambiente Codespace não inicia porque faltam bibliotecas gráficas do sistema.
+![Aplicativo React Native no navegador](Prints/Print-notebook.png)
 
 ### Frontend mobile no celular
 
-Captura pendente: requer abrir o app em um aparelho com Expo Go.
+![Aplicativo React Native no celular](Prints/Print-celular.jpeg)
 
 ---
