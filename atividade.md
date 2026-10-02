@@ -8,12 +8,12 @@
   
 ---
 ## Tarefas
-- [ ] Fork desse respositório;
-- [ ] Atualize os textos de README.md com seu nome e links do github e linkedin;
-- [ ] Seguindo a [nota de aula sobre introdução a react native](https://github.com/infoweb-pos/rn-01-introducao), crie 1 aplicação react native
-  - [ ] Modifique a página principal do aplicativo com o seu nome no lugar de `Welcome to&nbsp;Expo`
-  - [ ] Abra a aplicação no navegdor, faça a captura da tela e publique nesse repositório (lembre de colocar o link no README.md)
-  - [ ] Abra a aplicação no celular, faça a captura da tela e publique nesse repositório (lembre de colocar o link no README.md)
+- [x] Fork deste repositório;
+- [ ] Atualize os textos de README.md com seu nome e links do GitHub e LinkedIn (o link do LinkedIn não foi informado);
+- [x] Seguindo a [nota de aula sobre introdução a React Native](https://github.com/infoweb-pos/rn-01-introducao), crie uma aplicação React Native;
+  - [x] Modifique a página principal do aplicativo com seu nome no lugar de `Welcome to&nbsp;Expo`;
+  - [ ] Abra a aplicação no navegador, faça a captura da tela e publique nesse repositório (a captura não foi gerada neste Codespace);
+  - [ ] Abra a aplicação no celular, faça a captura da tela e publique nesse repositório (requer um aparelho com Expo Go).
 
 ---
 ## Observações importantes
